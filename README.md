@@ -3,6 +3,6 @@
 
 </p>
 <h3>
-<div size='20px'> Je suis développeur/moddeur amateur en parrellele de ems études
+<div size='20px'> Je suis développeur/moddeur amateur en parrellele de mes études
 </h3>
 </div>
