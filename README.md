@@ -7,14 +7,10 @@
 </h3>
 </div>
   
-<h2> À propos de moi <img src="Ressources\Bars.gif">
+<h2> À propos de moi
 </h2>
 
-➭ 💼 Développeur Front-End chez nod.i, <a href="http://timreq.fr" target="_blank">pour plus d'infos</a>
-
-➭ 🎮 Développeur de jeux indépendants, <a href="http://games.straky.fr" target="_blank">pour plus d'infos</a>
-
-➭ 💻 Mes projets personnels, <a href="http://straky.fr" target="_blank">pour plus d'infos</a>
+➭ 💻 Mes projets personnels, <a href="[https://thewadi.io/hub](https://lewadi.github.io/hub/)" target="_blank">pour plus d'infos</a>
 
 <h2> Mes compétences <img src = "Ressources\Dev.gif"> </h2>
 
