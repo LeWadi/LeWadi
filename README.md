@@ -18,13 +18,13 @@
 
 <h3>Les outils que j'utilise</h3>
   
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="Res\Windows11.png" alt="Windows" title="Windows" width=32px></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="Res\windows11.png" alt="Windows" title="Windows" width=32px></a>
     &nbsp;
   <a href="https://www.photopea.com/" target="_blank"><img src="Res\hamdoulilah_c_gratuit.png" alt="Photopea" title="Photopea" width=32px></a>
     &nbsp;
   <a href="https://visualstudio.microsoft.com" target="_blank"><img src="Res\VisualStudioCode.png" alt="Visual Studio Code" title="Visual Studio Code" width=32px></a>
     &nbsp;
-    <a href="https://floorp.app/fr" target="_blank"><img src="Res\Floorp.png" alt="Floorp" title="Floorp" width=32px></a>
+    <a href="https://floorp.app/fr" target="_blank"><img src="Res\floorp.png" alt="Floorp" title="Floorp" width=32px></a>
     &nbsp;
   <a href="https://github.com/IcySon55/Kuriimu" target="_blank"><img src="Res\Kuriimu.png" alt="Kuriimu" title="Kuriimu" width=32px></a>
   
