@@ -34,30 +34,22 @@
   <a href="https://html.spec.whatwg.org" target="_blank"><img src="Res\HTML.png" alt="HTML" title="HTML" width=32px></a>
    &nbsp;
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="Res\CSS.png" alt="CSS" title="CSS" width=32px></a>
+   &nbsp;
+  <a href="https://haxeflixel.com/" target="_blank"><img src="Res\HaxeFlixel.png" alt="HaxeFlixel" title="HaxeFlixel" width=32px></a>
  
 <h6>Où je suis intermédiaire</h6>  
-  
-  <a href="https://www.php.net" target="_blank"><img src="Res\PHP.png" alt="PHP" title="PHP" width=38px></a>
-    &nbsp;
-  <a href="https://www.javascript.com" target="_blank"><img src="Res\JavaScript.png" alt="JavaScript" title="JavaScript" width=32px></a>
-    &nbsp;
+
   <a href="https://www.python.org" target="_blank"><img src="Res\Python.png" alt="Python" title="Python" width=32px></a>
   
 <h6>Où je débute</h6>
- 
-  <a href="https://www.java.com/fr" target="_blank"><img src="Res\Java.png" alt="Java" title="Java" width=42px></a>
-    &nbsp;
-  <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"><img src="Res\Csharp.png" alt="C#" title="C#" width=32px></a>
-    &nbsp;
-  <a href="https://www.gnu.org/software/bash" target="_blank"><img src="Res\Bash.png" alt="Bash" title="Bash" width=32px></a>
-    &nbsp;
-  <a href="https://www.mysql.com/fr" target="_blank"><img src="Res\MySQL.png" alt="SQL" title="SQL" width=42px></a>
 
+  <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"><img src="Res\Csharp.png" alt="C#" title="C#" width=32px></a>
+  
 </div>
 
 <h2>Mes statistiques Github <img src='Res\Github_logo.gif'> </h2>
 
-<a href="https://github.com/Str4ky/github-readme-stats">
+<a href="https://github.com/LeWadi/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Str4ky&count_private=true&show_icons=true&theme=tokyonight" />
 </a><br><br><br><br><br><br><br><br><br><br>
 <a href="https://github.com/Str4ky/convoychat">
