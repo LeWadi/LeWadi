@@ -50,8 +50,8 @@
 <h2>Mes statistiques Github <img src='Res\Github_logo.gif'> </h2>
 
 <a href="https://github.com/LeWadi/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Str4ky&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LeWadi&count_private=true&show_icons=true&theme=tokyonight" />
 </a><br><br><br><br><br><br><br><br><br><br>
-<a href="https://github.com/Str4ky/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Str4ky&theme=tokyonight" />
+<a href="https://github.com/LeWadi/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeWadi&theme=tokyonight" />
 </a>
