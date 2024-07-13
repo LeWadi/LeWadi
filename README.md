@@ -10,7 +10,7 @@
 <h2> À propos de moi
 </h2>
 
-➭ ⚽ Mes projets personnels, <a href="https://lewadi.github.io/hub/" target="_blank">pour plus d'infos</a>
+➭ ⚽ Mes projets personnels, <a href="https://lewadi.github.io/hub/" target="_blank">pour plus d'infos (mon site)</a>
 
 <h2> Mes compétences <img src = "Res\Dev.gif"> </h2>
 
