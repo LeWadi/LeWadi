@@ -1,4 +1,4 @@
-<h1 style="vertical-align: top;"> <img src="Res\nerd.png"> Hi, I'm Wadi <a href="README.md">(<img src="Res\fr_flag.png"> version)</a></h1>
+<h1 style="vertical-align: top;"> <img src="Res\nerd.png"> Hi, I'm Mowa <a href="README.md">(<img src="Res\fr_flag.png"> version)</a></h1>
 <p align='center'>
 
 </p>
